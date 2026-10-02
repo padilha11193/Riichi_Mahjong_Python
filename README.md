@@ -1,2 +1,2 @@
 # Riichi_Mahjong_Python
-Jogo completo de Riichi Mahjong desenvolvido em Python utilizando conceitos como POO para estruturação e organização do código. Possui todas as regras, combinações de mãos, condições de vitória e peças do jogo tradicional, além de um modo Single-Player contra a máquina.
+Jogo de Riichi Mahjong desenvolvido em Python utilizando conceitos como POO para estruturação e organização do código. Atualmente, se encontra em estágio inicial de desenvolvimento. Porém, funcionalidades como regras de jogo, combinações de mãos, compras e descartes e partidas contra a máquina serão adicionadas em breve.
